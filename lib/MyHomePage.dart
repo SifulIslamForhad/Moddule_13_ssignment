@@ -1,5 +1,9 @@
 import 'package:flutter/cupertino.dart';
+<<<<<<< HEAD
 import 'package:flutter/material.dart';    //////////////// New
+=======
+import 'package:flutter/material.dart';
+>>>>>>> efb6120ff452e22bbd50fe26f558e2e9815bed79
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key});
@@ -125,12 +129,17 @@ class _MyHomePageState extends State<MyHomePage> {
                                   ),
 
                                   Container(
+<<<<<<< HEAD
                                     height: 45, width: double.infinity,
                                     margin: EdgeInsets.only(left: 10, right: 10, bottom: 5),
                                     decoration: BoxDecoration(
                                         color: Colors.grey.shade300,
                                       borderRadius: BorderRadius.all(Radius.circular(5))
                                     ),
+=======
+                                    color: Colors.grey.shade300, height: 45, width: double.infinity,
+                                    margin: EdgeInsets.only(left: 10, right: 10, bottom: 5),
+>>>>>>> efb6120ff452e22bbd50fe26f558e2e9815bed79
                                     child: Center(child: Text('বিস্তারিত দেখি ->', style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold))),
                                   )
                                   
@@ -237,11 +246,15 @@ class _MyHomePageState extends State<MyHomePage> {
                                     ),
 
                                     Container(
+<<<<<<< HEAD
                                       decoration: BoxDecoration(
                                           color: Colors.grey.shade300,
                                           borderRadius: BorderRadius.all(Radius.circular(5))
                                       ),
                                       height: 45, width: double.infinity,
+=======
+                                      color: Colors.grey.shade300, height: 45, width: double.infinity,
+>>>>>>> efb6120ff452e22bbd50fe26f558e2e9815bed79
                                       margin: EdgeInsets.only(left: 10, right: 10, bottom: 5),
                                       child: Center(child: Text('বিস্তারিত দেখি ->', style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold))),
                                     )
@@ -364,11 +377,15 @@ class _MyHomePageState extends State<MyHomePage> {
                                     ),
 
                                     Container(
+<<<<<<< HEAD
                                       decoration: BoxDecoration(
                                           color: Colors.grey.shade300,
                                           borderRadius: BorderRadius.all(Radius.circular(5))
                                       ),
                                       height: 45, width: double.infinity,
+=======
+                                      color: Colors.grey.shade300, height: 45, width: double.infinity,
+>>>>>>> efb6120ff452e22bbd50fe26f558e2e9815bed79
                                       margin: EdgeInsets.only(left: 10, right: 10, bottom: 5),
                                       child: Center(child: Text('বিস্তারিত দেখি ->', style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold))),
                                     )
@@ -476,11 +493,15 @@ class _MyHomePageState extends State<MyHomePage> {
                                     ),
 
                                     Container(
+<<<<<<< HEAD
                                       decoration: BoxDecoration(
                                           color: Colors.grey.shade300,
                                           borderRadius: BorderRadius.all(Radius.circular(5))
                                       ),
                                       height: 45, width: double.infinity,
+=======
+                                      color: Colors.grey.shade300, height: 45, width: double.infinity,
+>>>>>>> efb6120ff452e22bbd50fe26f558e2e9815bed79
                                       margin: EdgeInsets.only(left: 10, right: 10, bottom: 5),
                                       child: Center(child: Text('বিস্তারিত দেখি ->', style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold))),
                                     )
